@@ -183,3 +183,4 @@ find CodeAlly.svg
 find -name CodeAlly.svg
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
+find
