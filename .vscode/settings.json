@@ -8,7 +8,11 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit"
   },
+<<<<<<< HEAD
   "editor.hover.enabled": false,
+=======
+  "editor.hover.enabled": "off",
+>>>>>>> 36a3a83a3e441d098c97b1c6689a450f11ed91c2
   "editor.inlineSuggest.enabled": false,
   "editor.minimap.enabled": false,
   "editor.parameterHints.enabled": false,
@@ -35,8 +39,13 @@
     "**/.DS_Store": true,
     ".vscode": true,
     ".gitignore": true,
+<<<<<<< HEAD
     "freeCodeCamp": true,
     "learn-bash-by-building-a-boilerplate": true,
+=======
+    ".freeCodeCamp": true,
+    "learn-relational-databases-by-building-a-database-of-video-game-characters": true,
+>>>>>>> 36a3a83a3e441d098c97b1c6689a450f11ed91c2
     ".gitpod.Dockerfile": true,
     ".gitpod.yml": true,
     "CHANGELOG.md": true,
