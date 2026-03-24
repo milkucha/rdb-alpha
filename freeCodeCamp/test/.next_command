@@ -147,3 +147,4 @@ find -name src
 find src
 find client/src
 find
+cd client
