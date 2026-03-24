@@ -148,3 +148,4 @@ find src
 find client/src
 find
 cd client
+mkdir assets
