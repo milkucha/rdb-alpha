@@ -194,3 +194,4 @@ find client/assets/fonts
 find
 RM --help
 rm --help
+rm -r fonts
